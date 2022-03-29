@@ -26,4 +26,5 @@ while [ "0$guess" -ne $number ] ; do
 done
 
 echo "That's right!"
+sleep 5
 exit 0
